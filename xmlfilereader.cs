@@ -9,7 +9,8 @@ namespace xml
     {
         static void Main(string[] args)
         {
-            
+            //Read XML File Using XMLReader in C#
+
             // Create XmlReader object  and setup Stream between XML file and XML Reader
             using (XmlReader reader = XmlReader.Create(@"C:/Users/Dell/source/repos/xml/info.xml"))
             {
