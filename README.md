@@ -36,5 +36,14 @@ XML Example:
   <msg>Welcome to beginners tutorial for XML!!!</msg>
 </message>
 
+XML Properties
+
+1. XML is a markup language that focuses on data rather than how the data looks.
+2. XML is designed to send, store, receive and display data. In simple words you can say that XML is used for storing and transporting data.
+3. XML became a W3C (W3C stands for World Wide Web Consortium, the main international standards organization for the World Wide Web) recommendation on February 10, 1998.
+4. XML is different from HTML. XML focuses on data while HTML focuses on how the data looks.
+5. XML does not depend on software and hardware, it is platform and programming language independent.
+6. Unlike HTML where most of the tags are predefined, XML doesn’t have predefined tags, rather you have to create your own tags.
+
 
 
