@@ -36,6 +36,8 @@ XML Example:
   <msg>Welcome to beginners tutorial for XML!!!</msg>
 </message>
 
+
+
 XML Properties
 
 1. XML is a markup language that focuses on data rather than how the data looks.
