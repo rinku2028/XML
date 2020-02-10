@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student>
+    <Name>Rinku</Name>
+    <Location>Charlton</Location>
+  </Student>
+  <Student>
+    <Name>Aman</Name>
+    <Location>Woolwich</Location>
+  </Student>
+  <Student>
+    <Name>Vicky</Name>
+    <Location>Plumstead</Location>
+  </Student>
+  <Student>
+    <Name>Chandan</Name>
+    <Location>Plumstead</Location>
+  </Student>
+  <Student>
+    <Name>Ravi</Name>
+    <Location>Greenwich</Location>
+  </Student>
+</Students>
